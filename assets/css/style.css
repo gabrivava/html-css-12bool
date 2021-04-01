@@ -1,0 +1,17 @@
+.row {
+    height: 200px;
+    text-align: center;
+    line-height: 198px;
+    background-color: lightpink;
+}
+[class*="col-"] {
+    border: 1px solid black;
+}
+#nasted.row {
+    padding: 5px;
+    line-height: 190px;
+}
+#nasted [class*='col-'] {
+    background-color: rgb(255, 122, 122);
+    border: 1px solid white;
+}
