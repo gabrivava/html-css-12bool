@@ -1,3 +1,40 @@
-body {
-    background-color: lightseagreen;
+[class*='col-'] {
+    height: 80px;
+}
+
+
+
+/* colori pixel */
+.rosso {
+    background-color: #DF1900;
+}
+.arancione {
+    background-color: #F53100;
+}
+.giallo {
+    background-color: #FFCC23;
+}
+.becco {
+    background-color: #FF7C2A;
+}
+.panna {
+    background-color: #FFE29C;
+}
+.nero {
+    background-color: black;
+}
+.rosa {
+    background-color: #FEB485;
+}
+.verde {
+    background-color: #0CB800;
+}
+.blu {
+    background-color: #3B6AFE;
+}
+.azzurro {
+    background-color: #63BCFF;
+}
+.viola {
+    background-color: #8620D9;
 }
