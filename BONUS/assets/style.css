@@ -1,5 +1,5 @@
 [class*='col-'] {
-    height: 80px;
+    height: 100px;
 }
 
 
@@ -13,6 +13,9 @@
 }
 .giallo {
     background-color: #FFCC23;
+}
+.giallo-chiaro {
+    background-color: #FEF423;
 }
 .becco {
     background-color: #FF7C2A;
@@ -37,4 +40,13 @@
 }
 .viola {
     background-color: #8620D9;
+}
+.marrone {
+    background-color: #611F00;
+}
+.chiaro {
+    background-color: #DB7B14;
+}
+.scuro {
+    background-color: #AA4D00;
 }
